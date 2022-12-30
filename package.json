@@ -86,7 +86,7 @@
     "karma-phantomjs-launcher": "1.0.4",
     "karma-script-launcher": "1.0.0",
     "karma-sinon": "1.0.5",
-    "mocha": "7.1.2",
+    "mocha": "10.2.0",
     "phantomjs-prebuilt": "2.1.16",
     "sinon": "9.0.2",
     "webpack-dev-server": "3.11.0"
